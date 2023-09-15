@@ -6,14 +6,14 @@ To assemble the computer system
 
 ## Steps:
    
-1.Grounding oneself can be done by using an antistatic wrist-strap cable to prevent electrostatic discharge (ESD) which can be deadly to computer electronics. Alternatively, a large metal body like a radiator can also be touched to discharge oneself                                                                      
+## 1.Grounding oneself can be done by using an antistatic wrist-strap cable to prevent electrostatic discharge (ESD) which can be deadly to computer electronics. Alternatively, a large metal body like a radiator can also be touched to discharge oneself                                                                      
 ![Picture1](https://github.com/JAYAVARTHAN-P/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121369281/7327a514-8531-4f9f-868d-e08bf471b8e1)
 
 
 
-2.To Open the case. Unscrew the side panel (or slide it toward the back of the case) to do so.
-3.Install the power supply. Some cases come with the power supply already installed, while others will require to purchase the power already installed, while others will require to purchase the power supply separately and install it ourself. Have to make sure that the power supply is install in the correct orientation and nothing is blocking the power supplies fan.
-4.Add components to the motherboard this is usually easiest to do before installing the motherboard as the case can limit ability to wire components. Apply the thermal paste to the processor if necessary put a small dot of the thermal paste    on the CPU 
+## 2.To Open the case. Unscrew the side panel (or slide it toward the back of the case) to do so.
+## 3.Install the power supply. Some cases come with the power supply already installed, while others will require to purchase the power already installed, while others will require to purchase the power supply separately and install it ourself. Have to make sure that the power supply is install in the correct orientation and nothing is blocking the power supplies fan.
+## 4.Add components to the motherboard this is usually easiest to do before installing the motherboard as the case can limit ability to wire components. Apply the thermal paste to the processor if necessary put a small dot of the thermal paste    on the CPU 
 
 ![Picture4](https://github.com/JAYAVARTHAN-P/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121369281/e3a4b029-5eff-4f86-90a2-f5a0ad66e4f5)
 
